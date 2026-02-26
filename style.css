@@ -1,0 +1,16 @@
+#icon{
+    height: 62px;
+}
+
+body{
+    margin: 0;;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    background-color: black;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
